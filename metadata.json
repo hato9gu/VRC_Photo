@@ -1,13 +1,24 @@
 {
   "gallery_title": "VRC_Photo_hato9gu",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-02-11 16:33:42",
-  "images": [],
+  "last_updated": "2026-02-11 16:39:09",
+  "images": [
+    {
+      "file_hash": "ff2b7319",
+      "date": "2026-02-08",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    }
+  ],
   "categories": [
     "Uncategorized",
     "Main Event",
     "Selfie",
     "Landscape",
     "Group Photo"
-  ]
+  ],
+  "base_url": "https://hato9gu.github.io/VRC_Photo"
 }
